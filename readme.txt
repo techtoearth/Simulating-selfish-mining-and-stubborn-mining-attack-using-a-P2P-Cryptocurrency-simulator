@@ -1,3 +1,7 @@
+CS765: Introduction of Blockchains, Cryptocurrencies, and Smart Contracts Project-II
+
+IIT Bombay
+
 Project Topic :  Simulating Selfish Mining and Stubborn Mining attack using the P2P Cryptocurrency Network Simulator
 
 Team Members:
